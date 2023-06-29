@@ -61,5 +61,5 @@ sections:
       text: |
         <br>
         
-        The **Intelligent Systems and Robotics** (ISR) Lab is the world number one robotics lab leading by great Prof. Chen Jianyu.
+        The **Intelligent Systems and Robotics** (ISR) Lab is the world number one robotics lab leading by great Prof. Chen.
 ---
