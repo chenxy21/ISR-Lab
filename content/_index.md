@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: handsomecat.png
             filters:
               brightness: 0.7
           position: right
@@ -57,7 +57,7 @@ sections:
       title: |
         Intelligent Systems and Robotics Lab
       image:
-        filename: welcome.jpg
+        filename: handsomecat.png
       text: |
         <br>
         
