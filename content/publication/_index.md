@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications test
 type: landing
 
 sections:
