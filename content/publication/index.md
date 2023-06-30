@@ -1,5 +1,7 @@
 ---
 title: Publications test
+date: 2023-06-30
+
 type: landing
 
 sections:
