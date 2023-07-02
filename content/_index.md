@@ -18,12 +18,22 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: We realllly eat a lot.
+      - title: Our robot
+        content: this is our robot
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: robot_pic.PNG
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Our robot movie
+        content: this is our robot movie
+        align: left
+        background:
+          image:
+            filename: robot_mv_comp.MP4
             filters:
               brightness: 0.7
           position: center
