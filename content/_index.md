@@ -38,7 +38,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment
+      - title: 'DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment'
         align: right
         background:
           image:
