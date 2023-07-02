@@ -38,7 +38,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Asking Before Action: Gather Information in Embodied Decision Making with Language Models
+      - title: 'Asking Before Action: Gather Information in Embodied Decision Making with Language Models'
         align: right
         background:
           image:
