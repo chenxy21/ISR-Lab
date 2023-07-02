@@ -38,11 +38,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: DoReMi
+      - title: DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment
         align: right
         background:
           image:
-            filename: handsomecat.png
+            filename: DoReMi_pic.png
             filters:
               brightness: 0.5
           position: center
@@ -52,11 +52,11 @@ sections:
           icon_pack: fas
           text: Arxiv
           url: 'https://arxiv.org/'
-      - title: DEMO
+      - title: Decentralized Motor Skill Learning for Complex Robotic Systems
         align: right
         background:
           image:
-            filename: handsomecat.png
+            filename: DEMOS_pic.png
             filters:
               brightness: 0.5
           position: center
