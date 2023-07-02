@@ -52,7 +52,7 @@ sections:
           icon_pack: fas
           text: Arxiv
           url: 'https://arxiv.org/'
-        - title: DoReMi
+      - title: DoReMi
         align: right
         background:
           image:
