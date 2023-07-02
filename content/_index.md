@@ -38,6 +38,34 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: 'DEMO'
+        align: right
+        background:
+          image:
+            filename: handsomecat.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Arxiv
+          url: 'https://arxiv.org/'
+        - title: 'DoReMi'
+        align: right
+        background:
+          image:
+            filename: handsomecat.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Arxiv
+          url: 'https://arxiv.org/'
       - title: 'Asking Before Action: Gather Information in Embodied Decision Making with Language Models'
         align: right
         background:
@@ -52,6 +80,20 @@ sections:
           icon_pack: fas
           text: Arxiv
           url: 'https://arxiv.org/abs/2305.15695'
+      - title: 'AMP'
+        align: right
+        background:
+          image:
+            filename: handsomecat.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Arxiv
+          url: 'https://arxiv.org/'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
