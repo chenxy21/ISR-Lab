@@ -38,12 +38,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Research works 📄
-        content: our new research 
+      - title: Asking Before Action: Gather Information in Embodied Decision Making with Language Models
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: ABA_pic.png
             filters:
               brightness: 0.5
           position: center
@@ -51,8 +50,8 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Arxiv
+          url: 'https://arxiv.org/abs/2305.15695'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
