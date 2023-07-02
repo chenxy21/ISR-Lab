@@ -66,9 +66,9 @@ sections:
       title: |
         Intelligent Systems and Robotics Lab
       image:
-        filename: handsomecat.png
+        filename: combined_logo.png
       text: |
         <br>
         
-        'The **Intelligent Systems and Robotics** (ISR) Lab is the world number one robotics lab leading by great Prof. Chen. I am an assistant professor in Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University. Prior to that, I was working with Prof. Masayoshi Tomizuka at the University of California, Berkeley and received my Ph.D. degree in 2020. I received my Bachelor degree from Tsinghua University in 2015. I am working at an intersection of machine learning, robotics and control to build intelligent systems which can efficiently learn safe and reliable sensori-motor control policies. Applications of my work mainly focus on robotic systems such as autonomous driving and industrial robots. My research interests include reinforcement learning, control, deep learning, autonomous driving, and robotics.'
+        'The Intelligent Systems and Robotics Lab (ISRLab) is founded by [Prof. Jianyu Chen](http://people.iiis.tsinghua.edu.cn/~jychen/). It is affiliated with the Institute for [Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/) at Tsinghua University, and the [Shanghai Qizhi Institute](https://sqz.ac.cn). Our goal is to build advanced robotic systems with high performance and high intelligence. We work in the cross fields of robotics, reinforcement learning, and large language models.'
 ---
