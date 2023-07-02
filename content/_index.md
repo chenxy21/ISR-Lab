@@ -38,7 +38,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 'DEMO'
+      - title: DEMO
         align: right
         background:
           image:
@@ -52,7 +52,7 @@ sections:
           icon_pack: fas
           text: Arxiv
           url: 'https://arxiv.org/'
-        - title: 'DoReMi'
+        - title: DoReMi
         align: right
         background:
           image:
@@ -80,7 +80,7 @@ sections:
           icon_pack: fas
           text: Arxiv
           url: 'https://arxiv.org/abs/2305.15695'
-      - title: 'AMP'
+      - title: AMP
         align: right
         background:
           image:
