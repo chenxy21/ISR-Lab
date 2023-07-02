@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+# role: 
 
 # Organizations/Affiliations
-organizations:
-  - name: 
-    url: ''
+# organizations:
+#   - name: 
+#     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: Master student
