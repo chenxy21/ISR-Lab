@@ -5,7 +5,6 @@
  type: landing
 
  sections:
-   sections:
    - block: contact
      content:
        title: Contact
